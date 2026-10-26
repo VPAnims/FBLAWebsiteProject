@@ -1,0 +1,20 @@
+{
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false
+  },
+  "[html]": {
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false
+  },
+  "[css]": {
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false
+  },
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false
+  }
+}

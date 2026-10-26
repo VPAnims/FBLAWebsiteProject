@@ -5,6 +5,7 @@
 | Files and folders | kebab-case | report-issue.html |
 | CSS classes and ids | kebab-case | .trail-card, \#issue-form |
 | JS variables and functions | camelCase | trailName, loadTrails() |
+| Python variables and functions | snake_case | show_home_page |
 | JS constants | UPPER\_SNAKE\_CASE | MAX\_VOLUNTEERS |
 | Database tables and columns | snake\_case | trails, trail\_id |
 
@@ -32,7 +33,7 @@ Rules:
 
 | Rule: | Setting: |
 | :---- | :---- |
-| Indentation | 2 spaces |
+| Indentation | 2 spaces in HTML, CSS, and JS; 4 spaces in Python (Python standard). |
 | Quotes in JS | Single (‘hello’) |
 | Quotes in HTML | Double (class=”trail-card”) |
 | Semicolons in JS | Always |
